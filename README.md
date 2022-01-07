@@ -1,5 +1,6 @@
-<h2> Hi, I'm Sturdy! <img src="https://media.giphy.com/media/xZ9RvVHluWRcDk5egw/giphy.gif" width="200"></h2>
+<h2> Hi, I'm Sturdy!</h2>
 <img align='right' src="https://media.giphy.com/media/l2QZQ53G4vWK9DFYY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/xZ9RvVHluWRcDk5egw/giphy.gif" width="200">
 <p><em>Software Enginner<br/>Developer Productivity Engineer<br/>Woodworker</em></p>
 
 [![Twitter: jonno0211](https://img.shields.io/twitter/follow/jonno0211?style=social)](https://twitter.com/jonno0211)
