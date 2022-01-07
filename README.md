@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2> Hi, I'm Sturdy! <img src="https://media.giphy.com/media/xZ9RvVHluWRcDk5egw/giphy.gif" width="200"></h2>
+<img align='right' src="https://media.giphy.com/media/l2QZQ53G4vWK9DFYY/giphy.gif" width="230">
+<p><em>Software Enginner<br/>Developer Productivity Engineer<br/>Woodworker</em></p>
 
-<!--
-**sturdy5/sturdy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: jonno0211](https://img.shields.io/twitter/follow/jonno0211?style=social)](https://twitter.com/jonno0211
+[![GitHub sturdy5](https://img.shields.io/github/followers/sturdy5?label=follow&style=social)](https://github.com/sturdy5)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const sturdy = {
+  development: {
+    languages: [Javascript, HTML, CSS, Ruby, Java, Groovy],
+    tools: [Vue, Node, Jest, Docker, Podman, Jenkins, Gradle, Maven],
+    interests: [Developer Productivity Engineering, Application Development Security],
+    goal: Raising awareness around security while speeding up development teams
+  },
+  woodworking: {
+    languages: [Imperial measurements, Metric measurements],
+    tools: [Porter Cable, Dewalt, Kobalt],
+    interests: [Furniture, Gifts],
+    goal: Take a hobby and turn it into income
+  }
+}
+```
+
+---
