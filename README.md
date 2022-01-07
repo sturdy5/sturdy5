@@ -11,16 +11,16 @@
 ```javascript
 const sturdy = {
   development: {
-    languages: [Javascript, HTML, CSS, Ruby, Java, Groovy],
-    tools: [Vue, Node, Jest, Docker, Podman, Jenkins, Gradle, Maven],
-    interests: [Developer Productivity Engineering, Application Development Security],
-    goal: Raising awareness around security while speeding up development teams
+    languages: ['Javascript', 'HTML', 'CSS', 'Ruby', 'Java', 'Groovy'],
+    tools: ['Vue', 'Node', 'Jest', 'Docker', 'Podman', 'Jenkins', 'Gradle', 'Maven'],
+    interests: ['Developer Productivity Engineering', 'Application Development Security'],
+    goal: 'Raising awareness around security while speeding up development teams'
   },
   woodworking: {
-    languages: [Imperial measurements, Metric measurements],
-    tools: [Porter Cable, Dewalt, Kobalt],
-    interests: [Furniture, Gifts],
-    goal: Take a hobby and turn it into income
+    languages: ['Imperial measurements', 'Metric measurements'],
+    tools: ['Porter Cable', 'Dewalt', 'Kobalt'],
+    interests: ['Furniture', 'Gifts'],
+    goal: 'Take a hobby and turn it into income'
   }
 }
 ```
