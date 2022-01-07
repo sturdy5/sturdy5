@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/l2QZQ53G4vWK9DFYY/giphy.gif" width="230">
 <p><em>Software Enginner<br/>Developer Productivity Engineer<br/>Woodworker</em></p>
 
-[![Twitter: jonno0211](https://img.shields.io/twitter/follow/jonno0211?style=social)](https://twitter.com/jonno0211
+[![Twitter: jonno0211](https://img.shields.io/twitter/follow/jonno0211?style=social)](https://twitter.com/jonno0211)
 [![GitHub sturdy5](https://img.shields.io/github/followers/sturdy5?label=follow&style=social)](https://github.com/sturdy5)
 
 
