@@ -12,8 +12,8 @@
 ```javascript
 const sturdy = {
   development: {
-    languages: ['Javascript', 'HTML', 'CSS', 'Ruby', 'Java', 'Groovy'],
-    tools: ['Vue', 'Node', 'Jest', 'Docker', 'Podman', 'Jenkins', 'Gradle', 'Maven'],
+    languages: ['Javascript', 'HTML', 'CSS', 'Ruby', 'Java', 'Groovy', 'Bash'],
+    tools: ['Vue', 'Node', 'Jest', 'Docker', 'Podman', 'Jenkins', 'Gradle', 'Maven', 'Linux'],
     interests: ['Developer Productivity Engineering', 'Application Development Security'],
     goal: 'Raising awareness around security while speeding up development teams'
   },
@@ -25,5 +25,9 @@ const sturdy = {
   }
 }
 ```
+
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sturdy5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
