@@ -12,7 +12,7 @@
 ```javascript
 const sturdy = {
   development: {
-    languages: ['Javascript', 'HTML', 'CSS', 'Ruby', 'Java', 'Groovy', 'Bash'],
+    languages: ['Javascript', 'HTML', 'CSS', 'Ruby', 'Java', 'Groovy', 'Bash', 'PHP'],
     tools: ['Vue', 'Node', 'Jest', 'Docker', 'Podman', 'Jenkins', 'Gradle', 'Maven', 'Linux'],
     interests: ['Developer Productivity Engineering', 'Application Development Security'],
     goal: 'Raising awareness around security while speeding up development teams'
