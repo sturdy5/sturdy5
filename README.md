@@ -26,6 +26,11 @@ const sturdy = {
 }
 ```
 
+### :writing_hand: Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sturdy5)](https://github.com/ryo-ma/github-profile-trophy)
