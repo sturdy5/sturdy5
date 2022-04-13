@@ -29,6 +29,7 @@ const sturdy = {
 ### :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero Trust Explained](https://dev.to/sturdy5/zero-trust-explained-2mj4)
 <!-- BLOG-POST-LIST:END -->
 
 ### Trophies
