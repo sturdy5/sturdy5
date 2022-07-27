@@ -29,6 +29,7 @@ const sturdy = {
 ### :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Using Acronyms](https://dev.to/sturdy5/stop-using-acronyms-5d88)
 - [Secure Software Design](https://dev.to/sturdy5/secure-software-design-4o00)
 - [Hello, I&#39;m Sturdy and I&#39;m Burned Out](https://dev.to/sturdy5/hello-im-sturdy-and-im-burned-out-lln)
 - [Zero Trust Explained](https://dev.to/sturdy5/zero-trust-explained-2mj4)
